@@ -1,0 +1,9 @@
+C:\Users\Ivan\source\repos\3 Laba Computer Graphic Petrov\3 Laba Computer Graphic Petrov\bin\Debug\3 Laba Computer Graphic Petrov.exe.config
+C:\Users\Ivan\source\repos\3 Laba Computer Graphic Petrov\3 Laba Computer Graphic Petrov\bin\Debug\3 Laba Computer Graphic Petrov.exe
+C:\Users\Ivan\source\repos\3 Laba Computer Graphic Petrov\3 Laba Computer Graphic Petrov\bin\Debug\3 Laba Computer Graphic Petrov.pdb
+C:\Users\Ivan\source\repos\3 Laba Computer Graphic Petrov\3 Laba Computer Graphic Petrov\obj\Debug\3 Laba Computer Graphic Petrov.csprojAssemblyReference.cache
+C:\Users\Ivan\source\repos\3 Laba Computer Graphic Petrov\3 Laba Computer Graphic Petrov\obj\Debug\_3_Laba_Computer_Graphic_Petrov.Form1.resources
+C:\Users\Ivan\source\repos\3 Laba Computer Graphic Petrov\3 Laba Computer Graphic Petrov\obj\Debug\_3_Laba_Computer_Graphic_Petrov.Properties.Resources.resources
+C:\Users\Ivan\source\repos\3 Laba Computer Graphic Petrov\3 Laba Computer Graphic Petrov\obj\Debug\3 Laba Computer Graphic Petrov.csproj.GenerateResource.cache
+C:\Users\Ivan\source\repos\3 Laba Computer Graphic Petrov\3 Laba Computer Graphic Petrov\obj\Debug\3 Laba Computer Graphic Petrov.exe
+C:\Users\Ivan\source\repos\3 Laba Computer Graphic Petrov\3 Laba Computer Graphic Petrov\obj\Debug\3 Laba Computer Graphic Petrov.pdb

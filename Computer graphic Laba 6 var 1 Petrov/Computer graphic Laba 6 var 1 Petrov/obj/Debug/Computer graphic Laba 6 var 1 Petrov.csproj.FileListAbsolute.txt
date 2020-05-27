@@ -1,0 +1,9 @@
+C:\Users\Ivan\source\repos\Computer graphic Laba 6 var 1 Petrov\Computer graphic Laba 6 var 1 Petrov\bin\Debug\Computer graphic Laba 6 var 1 Petrov.exe.config
+C:\Users\Ivan\source\repos\Computer graphic Laba 6 var 1 Petrov\Computer graphic Laba 6 var 1 Petrov\bin\Debug\Computer graphic Laba 6 var 1 Petrov.exe
+C:\Users\Ivan\source\repos\Computer graphic Laba 6 var 1 Petrov\Computer graphic Laba 6 var 1 Petrov\bin\Debug\Computer graphic Laba 6 var 1 Petrov.pdb
+C:\Users\Ivan\source\repos\Computer graphic Laba 6 var 1 Petrov\Computer graphic Laba 6 var 1 Petrov\obj\Debug\Computer graphic Laba 6 var 1 Petrov.csprojAssemblyReference.cache
+C:\Users\Ivan\source\repos\Computer graphic Laba 6 var 1 Petrov\Computer graphic Laba 6 var 1 Petrov\obj\Debug\Computer_graphic_Laba_6_var_1_Petrov.Form1.resources
+C:\Users\Ivan\source\repos\Computer graphic Laba 6 var 1 Petrov\Computer graphic Laba 6 var 1 Petrov\obj\Debug\Computer_graphic_Laba_6_var_1_Petrov.Properties.Resources.resources
+C:\Users\Ivan\source\repos\Computer graphic Laba 6 var 1 Petrov\Computer graphic Laba 6 var 1 Petrov\obj\Debug\Computer graphic Laba 6 var 1 Petrov.csproj.GenerateResource.cache
+C:\Users\Ivan\source\repos\Computer graphic Laba 6 var 1 Petrov\Computer graphic Laba 6 var 1 Petrov\obj\Debug\Computer graphic Laba 6 var 1 Petrov.exe
+C:\Users\Ivan\source\repos\Computer graphic Laba 6 var 1 Petrov\Computer graphic Laba 6 var 1 Petrov\obj\Debug\Computer graphic Laba 6 var 1 Petrov.pdb

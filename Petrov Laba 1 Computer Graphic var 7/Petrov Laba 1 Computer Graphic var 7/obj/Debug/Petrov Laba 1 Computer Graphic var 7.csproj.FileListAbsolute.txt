@@ -1,0 +1,6 @@
+C:\Users\Ivan\source\repos\Petrov Laba 1 Computer Graphic var 7\Petrov Laba 1 Computer Graphic var 7\bin\Debug\Petrov Laba 1 Computer Graphic var 7.exe.config
+C:\Users\Ivan\source\repos\Petrov Laba 1 Computer Graphic var 7\Petrov Laba 1 Computer Graphic var 7\bin\Debug\Petrov Laba 1 Computer Graphic var 7.exe
+C:\Users\Ivan\source\repos\Petrov Laba 1 Computer Graphic var 7\Petrov Laba 1 Computer Graphic var 7\bin\Debug\Petrov Laba 1 Computer Graphic var 7.pdb
+C:\Users\Ivan\source\repos\Petrov Laba 1 Computer Graphic var 7\Petrov Laba 1 Computer Graphic var 7\obj\Debug\Petrov Laba 1 Computer Graphic var 7.csprojAssemblyReference.cache
+C:\Users\Ivan\source\repos\Petrov Laba 1 Computer Graphic var 7\Petrov Laba 1 Computer Graphic var 7\obj\Debug\Petrov Laba 1 Computer Graphic var 7.exe
+C:\Users\Ivan\source\repos\Petrov Laba 1 Computer Graphic var 7\Petrov Laba 1 Computer Graphic var 7\obj\Debug\Petrov Laba 1 Computer Graphic var 7.pdb
