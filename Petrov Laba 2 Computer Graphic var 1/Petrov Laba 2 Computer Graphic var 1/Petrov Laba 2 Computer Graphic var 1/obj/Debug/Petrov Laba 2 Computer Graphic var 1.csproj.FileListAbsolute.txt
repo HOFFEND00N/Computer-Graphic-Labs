@@ -1,0 +1,11 @@
+C:\Users\Ivan\source\repos\Petrov Laba 2 Computer Graphic var 1\Petrov Laba 2 Computer Graphic var 1\bin\Debug\Petrov Laba 2 Computer Graphic var 1.exe.config
+C:\Users\Ivan\source\repos\Petrov Laba 2 Computer Graphic var 1\Petrov Laba 2 Computer Graphic var 1\bin\Debug\Petrov Laba 2 Computer Graphic var 1.exe
+C:\Users\Ivan\source\repos\Petrov Laba 2 Computer Graphic var 1\Petrov Laba 2 Computer Graphic var 1\bin\Debug\Petrov Laba 2 Computer Graphic var 1.pdb
+C:\Users\Ivan\source\repos\Petrov Laba 2 Computer Graphic var 1\Petrov Laba 2 Computer Graphic var 1\obj\Debug\Petrov Laba 2 Computer Graphic var 1.csprojAssemblyReference.cache
+C:\Users\Ivan\source\repos\Petrov Laba 2 Computer Graphic var 1\Petrov Laba 2 Computer Graphic var 1\obj\Debug\Petrov_Laba_2_Computer_Graphic_var_1.Properties.Resources.resources
+C:\Users\Ivan\source\repos\Petrov Laba 2 Computer Graphic var 1\Petrov Laba 2 Computer Graphic var 1\obj\Debug\Petrov Laba 2 Computer Graphic var 1.csproj.GenerateResource.cache
+C:\Users\Ivan\source\repos\Petrov Laba 2 Computer Graphic var 1\Petrov Laba 2 Computer Graphic var 1\obj\Debug\Petrov Laba 2 Computer Graphic var 1.exe
+C:\Users\Ivan\source\repos\Petrov Laba 2 Computer Graphic var 1\Petrov Laba 2 Computer Graphic var 1\obj\Debug\Petrov Laba 2 Computer Graphic var 1.pdb
+C:\Users\Ivan\source\repos\Petrov laba 2 Computer Graphic var 1\Petrov Laba 2 Computer Graphic var 1\obj\Debug\Petrov_Laba_2_Computer_Graphic_var_1.Form1.resources
+C:\Users\Ivan\source\repos\Petrov laba 2 Computer Graphic var 1\Petrov Laba 2 Computer Graphic var 1\obj\Debug\Petrov_Laba_2_Computer_Graphic_var_1.Form2.resources
+C:\Users\Ivan\source\repos\Petrov laba 2 Computer Graphic var 1\Petrov Laba 2 Computer Graphic var 1\obj\Debug\Petrov Laba 2 Computer Graphic var 1.csproj.CoreCompileInputs.cache
